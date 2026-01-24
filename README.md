@@ -6,7 +6,7 @@ My journey of mastering Data Structures and Algorithms by solving problems in bo
 
 | Topic | Problem | JavaScript | Java | Difficulty |
 | :--- | :--- | :---: | :---: | :---: |
-| **Patterns** | Half Pyramid (Numbers) | [Solution](./pattern1.js) | [Solution](./Pattern1.java) | Easy |
+| **Patterns** | Pattern1 (Numbers) | [Solution](./) | [Solution](./Pattern1.java) | Easy |
 | **Arrays** | Second Largest Number | [Solution](./secondLargest.js) | *Coming Soon* | Easy |
 
 ---

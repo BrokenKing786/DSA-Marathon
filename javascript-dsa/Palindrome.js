@@ -1,11 +1,15 @@
-// palindrome of number
-let n = 984;
-let reverse = 0;
-let d = 0;
+let n = 979;
+let original = n;
+let rev = 0;
+let digit = 0;
 while (n != 0) {
-  d = n % 10;
-  reverse = reverse * 10 + d;
+  digit = n % 10;
+  rev = rev * 10 + digit;
   n = Math.floor(n / 10);
 }
 
-console.log(reverse);
+if (original == rev) {
+  console.log("Palindrome");
+} else {
+  console.log("Not a palindrome number");
+}

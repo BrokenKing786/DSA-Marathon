@@ -10,6 +10,7 @@ My journey of mastering Data Structures and Algorithms by solving problems in bo
 | **Patterns** | Pattern 2 (Inverted Triangle) | [Solution](./javascript-dsa/patterns/Pattern2.js) | [Solution](./java-dsa/src/star%20patterns/Pattern2.java) | Easy |
 | **Arrays** | Second Largest Number | [Solution](./javascript-dsa/arrays/SecondLargestNumber.js) | *Coming Soon* | Easy |
 | **General** | Count Digit | [Solution](./javascript-dsa/countDigit.js) | [Solution](./java-dsa/src/general/CountDigit.java) | Easy |
+| **Arrays** | Shift Uniq Elements to front in sorted Array | [Solution](./javascript-dsa/arrays/RemoveDuplicates.js) | *Coming soon*| Easy |
 
 ---
 

@@ -12,6 +12,7 @@ My journey of mastering Data Structures and Algorithms by solving problems in bo
 | **General** | Count Digit | [Solution](./javascript-dsa/countDigit.js) | [Solution](./java-dsa/src/general/CountDigit.java) | Easy |
 | **Arrays** | Shift Uniq Elements to front in sorted Array | [Solution](./javascript-dsa/arrays/RemoveDuplicates.js) | *Coming soon*| Easy |
 | **Arrays** | Best Time to sell Stock | *Coming soon* |[Solution](./java-dsa/src/arrays/BestTimeToSellStock.java) | Easy |
+| **Arrays** | Two Sum (Optimized Solution) | *Coming soon* |[Solution](./java-dsa/src/arrays/TwoSum.java) | Easy |
 
 ---
 

@@ -8,9 +8,9 @@ public class TwoSum {
     public static void main(String[] args) {
 
         // using hashmap - Time complexity 0(n)
-        // Space Complexity 0(n) as input increases the hashmap increase suppoe the
+        // Space Complexity 0(n) as input increases the hashmap increase suppose the
         // required numbers are in last
-        // so we will add al numbers with their index position
+        // so we will add all numbers with their index position
 
         // NOTE - complement means the number req to make the target
 

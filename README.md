@@ -13,6 +13,8 @@ My journey of mastering Data Structures and Algorithms by solving problems in bo
 | **Arrays** | Shift Uniq Elements to front in sorted Array | [Solution](./javascript-dsa/arrays/RemoveDuplicates.js) | *Coming soon*| Easy |
 | **Arrays** | Best Time to sell Stock | *Coming soon* |[Solution](./java-dsa/src/arrays/BestTimeToSellStock.java) | Easy |
 | **Arrays** | Two Sum (Optimized Solution) | *Coming soon* |[Solution](./java-dsa/src/arrays/TwoSum.java) | Easy |
+| **Recursion** | Print N numbers | *Coming soon* |[Solution](./java-dsa/src/recursion/Print.java) | Easy |
+| **Recursion** | Sum N numbers | *Coming soon* |[Solution](./java-dsa/src/recursion/SumOfNumbers.java) | Easy |
 
 ---
 
